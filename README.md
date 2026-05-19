@@ -491,8 +491,3 @@ centralized and avoids duplicating lamp control logic.
 - Codex hooks documentation: https://developers.openai.com/codex/hooks
 - Codex configuration basics: https://developers.openai.com/codex/config-basic
 - Bleak documentation: https://bleak.readthedocs.io/
-
-## License
-
-Add a `LICENSE` file before publishing if you want reuse terms to be explicit.
-MIT is a common choice for small utility projects like this.
