@@ -486,6 +486,10 @@ centralized and avoids duplicating lamp control logic.
 - The daemon writes temporary state, PID, lock, and log files under `/tmp` by
   default.
 
+## Credits
+
+This project was inspired by [bobek-balinek/claude-lamp](https://github.com/bobek-balinek/claude-lamp), a Claude hook project for controlling a Moonside lamp from Claude activity.
+
 ## Useful Links
 
 - Codex hooks documentation: https://developers.openai.com/codex/hooks
