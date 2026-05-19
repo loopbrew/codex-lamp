@@ -5,7 +5,7 @@ Codex Lamp BLE daemon.
 The hook writes a desired state to /tmp/codex_lamp_state. This daemon keeps a
 persistent BLE connection to the Moonside lamp and applies state changes.
 
-States: working, idle, input, off
+States: working, idle, input, off 
 """
 
 from __future__ import annotations
