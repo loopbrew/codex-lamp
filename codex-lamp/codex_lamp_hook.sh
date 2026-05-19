@@ -4,7 +4,7 @@
 #
 # Keep this script quiet and fast. Codex hooks receive JSON on stdin, but this
 # hook does not need to parse it because each configured event passes the state
-# as argv[1]. It intentionally writes nothing to stdout and always exits 0.
+# as argv[1]. It intentionally writes nothing to stdout and always exits 0. 
 
 STATE="${1:-idle}"
 
