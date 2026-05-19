@@ -1,6 +1,6 @@
 # Codex Lamp
 
-A tiny physical status light for Codex.
+A cool physical status light for Codex.
 
 This project connects Codex lifecycle hooks to a [Moonside](https://moonside.design/) lamp, so the
 lamp changes color or animation as Codex starts working, asks for approval, or
