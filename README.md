@@ -38,9 +38,9 @@ Codex hook event
 The default effects are defined in `codex_lamp_daemon.py`:
 
 ```python
-WORKING_CMD = "THEME.BEAT2.255,255,255,0,0,140,"
 COLOR_IDLE = "COLOR255180050"
-COLOR_INPUT = "COLOR200000255"
+WORKING_CMD = "THEME.BEAT2.255,255,255,0,0,140,"
+COLOR_INPUT = "THEME.WAVE1.255,100,0,255,26,214,"
 ```
 
 You can change these commands to any Moonside command your lamp accepts.
