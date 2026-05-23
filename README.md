@@ -43,7 +43,7 @@ WORKING_CMD = "THEME.BEAT2.255,255,255,0,0,140,"
 COLOR_INPUT = "THEME.WAVE1.255,100,0,255,26,214,"
 ```
 
-You can change these commands to any Moonside command your lamp accepts.
+You can change these commands to any Moonside command your lamp accepts. Moonside API Documentation: https://developer.moonside.design/
 
 ## Project Files
 
